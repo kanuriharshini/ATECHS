@@ -1,14 +1,8 @@
-/*==========================================================================  
-by "Akshay Momaya"
-for "Mission Critical" ( youtube )
-******subscribe for more ARDUINO projects and tutorials******
-https://www.youtube.com/channel/UCM6rbuieQBBLFsxszWA85AQ?sub_confirmation=1
-==========================================================================*/
+
 
 const int servo = 9;     //define Servo Signal Pin
 const int trigPin = 10;  //define Trigger Pin
-const int echoPin = 11;  //define Echo Pin
-
+const int echoPin = 11;  //define Echo pin
 // defines variables
 
 long duration;
